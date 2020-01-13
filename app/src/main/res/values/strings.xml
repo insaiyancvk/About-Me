@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Vamshi Krishna C</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi,
+        \n\n I am Vamshi Krishna
+        \n\nI\'m studying Bachelor of technology in EEE in Amrita Vishwa Vidyapeetham.
+        \n\nI love to binge watch anime and code
+        \n\nI watched loads of anime.\n
+        \n but the one\'s that\'ll go on top of the list are:
+        \n\n Naruto, Dragon Ball Z, Attack on Titan, Tokyo ghoul.
+        \n\n And find my coding stuff at https://www.github.com/insaiyancvk/</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
